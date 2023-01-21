@@ -6,3 +6,5 @@ build
 
 mongo-db-data
 credentials.json
+app.yaml
+prod-env.yaml
